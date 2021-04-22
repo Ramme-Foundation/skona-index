@@ -41,7 +41,6 @@ const handler: Handler = async (event, context) => {
         "Content-type": "application/json",
       },
       body: JSON.stringify({
-        response_type: "in_channel",
         text: "invalid ticker",
       }),
     };
@@ -59,6 +58,7 @@ const handler: Handler = async (event, context) => {
       "Content-type": "application/json",
     },
     body: JSON.stringify({
+      response_type: "in_channel",
       text: `added ticker ${validTicker} by ${slackData.user_name}`,
     }),
   };
