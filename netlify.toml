@@ -1,0 +1,6 @@
+[build]
+  functions = "dist"
+  node_bundler = "esbuild"
+[functions]
+  directory = "my_functions"
+  node_bundler = "esbuild"
