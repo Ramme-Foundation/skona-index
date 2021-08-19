@@ -13,7 +13,7 @@
     "encoding": "0.1.13",
     "lodash": "4.17.21",
     "prisma": "2.21.2",
-    "yahoo-finance2": "1.10.4"
+    "yahoo-finance2": "1.14.4"
   },
   "devDependencies": {
     "@types/aws-lambda": "8.10.75",
