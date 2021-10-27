@@ -1067,10 +1067,10 @@
     cpy "^8.1.0"
     path-exists "^4.0.0"
 
-"@netlify/functions@0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@netlify/functions/-/functions-0.7.0.tgz#6b1b9907d86ccc0528c1c4208a080d1666ed827e"
-  integrity sha512-Fqb32tl5aZ7Y97yK93/8hi4t5LMtHbMNzMC5tw7ROaGKxkZQN/ZbrEp83uT+dVq6qK8dUiO8+7h3sLz/AubexA==
+"@netlify/functions@0.8.0":
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/@netlify/functions/-/functions-0.8.0.tgz#0c0a3d5a8efdc6aa469f75acb9df556a317cff1f"
+  integrity sha512-Ew4Q2ofSBa5aeVOvrHNNEkfCJNmjTkEIr+WkyveOZrcnKQGH/sTtPqVb6HP51NJHNhczBkd3S3KdXfrCB0q0Ig==
   dependencies:
     is-promise "^4.0.0"
 
